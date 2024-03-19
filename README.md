@@ -3,6 +3,10 @@
 ## 1 - Introduction
 Unicorn companies stand for innovation and exponential development in the quickly changing business environment of today. Investors, entrepreneurs, and the business world at large are enthralled with unicorn businesses due to their extraordinary valuations and innovative business strategies. This case study explores the world of unicorn enterprises by utilizing a comprehensive dataset that includes information about the companies, funding, investors, inception dates, and industries. The goal is to disentangle the unicorn ecosystem's fundamental dynamics, patterns, and insights, as well as to explain what unicorn companies are and their significance in the startup ecosystem.
 
+[![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) 
+
+
 ## 2 - Dataset Overview
 The dataset being examined consists of multiple linked tables, including:
 - **Companies:** Information about unicorn businesses, such as name, address, and country.
@@ -18,9 +22,11 @@ Perform exploratory data analysis (EDA) to uncover insights and trends within th
 - Top investors in unicorn companies and their investment patterns.
 - Geographic concentration of unicorn companies and its implications.
 
-## 4 - Methodology
-The analysis employs SQL queries to extract, transform, and analyze the dataset. Techniques such as data cleaning, view creation, aggregation, and window functions are applied to derive meaningful insights into the unicorn ecosystem's funding trends and investor interests.
-
+## 4 - Tools Used
+- **SQL Server Management Studio:** Utilized for database management, SQL query development, and data manipulation tasks.
+  
+- **Excel:** Employed for supplementary data analysis, charting, and visualization to enhance insights derived from the SQL database.
+  
 
 ## 5 - Entity Relationship Diagram
 
